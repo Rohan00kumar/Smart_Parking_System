@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "serious-studio-377011",
+  "private_key_id": "84109700c6d46b73a98c34c53de1e275d6b0946a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqs0QCrQdkvqqk\n17Vh8fbvG/g7ooJ7J5GC9uBL1LPBdqEaWGUOhP5QMuZV0rrFgyOrcpYLcRtHRjfP\nKSJ/q/ufmm0LFcg3nzfXD/gd5zKf+gpiniweiJv23JIGWfhS/Dg43sGLMgD2mKs+\nI9fbXe/VZH4tHgyW+pBavDNY35rUdfXjwEmz+ZdZIAwydv1oL/0UqEqZd4OKX58X\nUOIk7bN09ijZjJJqP8D3JD4pXNH/ICDJhUuYHlzuBu82tCAwtayqSq4X3OK0rmVA\nlBSziWh3KEoIa8n16E6dqH6xpbvPq3Ykvh3ImDr+uDGU/MtmyZA1uXIYcmA/742N\nqfygjPcLAgMBAAECggEAI4qmzv3S68WNRzxInmegeCG1Okl4bIcNE50uj2tusAnw\nukkMZY0IXI90iQsS61wGOcTme+Rlfx4eMaqJbdbT0eP371ZuNTKYEFXZXfSNBGUt\n82Gmowbjnm9Hkj36Z+DvHdw3pTFYpP+drBcPczPoY2CEqwU2Lttl4haMhGUuWi0M\nYR5Mm+xzBQUNoE21VOmAlFLVHAWuYjvUraO9Uq8IsK4lDsWzoKNp/heRfIQ0InPp\nuy8+7r0eDtv0/5RPBsHLQDv5FdDuGmbCslUCU0wnkPcBYMIaXYEzAAuN9BrJkwqU\ncN53nqncaCu+Gr8QENAtQ4mR8DxGZidvw4DRCGEP1QKBgQDUVl3iFBAKUIdxpKjL\nH1rsoZDxnzVLRunuiLvXuHvoD+xWQSWNj0yt23A516+OSIKSwPrTR9f7ekqGTxqp\nB6YM3ldLr/nQXZ1k0eLcsHG0lhKa9HUQOoeByuK3Wx6qPnxIUUrpmbPmy98loj3h\nQI6xB4cMSfFnG+nJ/PECzjbFJQKBgQDNzRVNm9JFFi1y6kVfI6RmJINt+T15nkRl\nvVXm7f/o34o1HBHpoutyKNWnSGfKYnHDhLprmBSv7cZDCRAbR0Ae4a5NICx3G3m0\nI9ejTJQxN7h28Np1ya6XbPT2RkHsJuk61mgUM/eRFgmyknjFjKZZy/peflz6aIye\nKrgCTqTMbwKBgBy9C7vbh0g+GfbRmF7VgZLhUyLAr4/eqy6zpujNeUexUAVkj9aW\n/IPTXV8WyBXzzmhaYhhScvMAXDHNZwhVlq3LMfl2edMvuGu61H+WCe2tGhuK1oU5\nxrlUYlb6qC3Wgy+ugPsY6HZmRW9sg/+Go0lmgWqyX0/bQUsrRttgWZ1ZAoGBAMzn\nKxW5VhKpMRkgPW+rSgzUv/Ln3BhRxuHRME0bm9ddcfrM9ty69FcWZxsGESjE+WXk\nqcNkiPxc7jBiPqIaP7I/ms55gSwZtAPyR8nz/fw+8S+jQK9T3bwwpHjrnMkmOML3\nJGsxDoVq/r7H7O0ry5jOaXpZr/M10wPLnqfVa2mLAoGAF4ecYhnxF4PCUZjTS8Sp\nRgJiOy8Lg8x2/7Vj5SC3kr0Sa+wErLRivMezXw2A3IzRw745B77+8U4oiS1zW8sZ\nwMYhTJjrKaKqUESTfm+S7A0cy7Kbz7Jmroej3BJ6zMvNQgpSvVPqmT3ez5p2TcQ9\n0GM/o+8bYDjTzI5w+KHK5qQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "numberplate@serious-studio-377011.iam.gserviceaccount.com",
+  "client_id": "104983320733692133013",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/numberplate%40serious-studio-377011.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
